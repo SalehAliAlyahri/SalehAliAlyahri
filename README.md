@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saleh Ali Alyahri
 - 👀 I’m interested in AI and especially focus on data science
-- 🌱 I’m currently the senior student at the prince sultan university 
+- 🌱 I’m currently a senior student at the prince sultan university 
 - 📫 How to reach me ...
 LinkedIn:-
 https://www.linkedin.com/in/saleh-ali-al-yahri-0228501b3
